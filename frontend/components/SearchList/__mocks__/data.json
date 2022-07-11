@@ -1,0 +1,35 @@
+{
+  "items": {
+    "author": {
+      "name": "Pacual",
+      "lastname": "Madrid"
+    },
+    "categories": [
+      "Accesorios para Celulares",
+      "Audio",
+      "Baños",
+      "Construcción",
+      "Accesorios para Vehículos",
+      "Deportes y Fitness",
+      "Fundas y Bolsos",
+      "Computación",
+      "Salud y Equipamiento Médico",
+      "Cables",
+      "Cuidado del Hogar y Lavandería",
+      "Smartwatches y Accesorios"
+    ],
+    "items": [
+      {
+        "id": "MLA1132093369",
+        "title": "Minicomponente Sony Mhc-v02 Negro Con Bluetooth - 120v/240v",
+        "price": {
+          "currency": "ARS",
+          "amount": 75300
+        },
+        "picture": "http://http2.mlstatic.com/D_844851-MLA43059003691_082020-I.jpg",
+        "condition": "new",
+        "free_shipping": true
+      }
+    ]
+  }
+}

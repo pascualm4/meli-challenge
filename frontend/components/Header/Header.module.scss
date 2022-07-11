@@ -1,0 +1,21 @@
+@import '../../assets/styles/variables.scss';
+
+.headerContainer {
+  height: 64px;
+  width: 100%;
+  background-color: $yellow-color;
+  position: absolute;
+  top: 0;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  align-items: center;
+}
+
+.logoContainer {
+  grid-column: 2 / 3;
+  cursor: pointer;
+}
+
+.searchBarContainer {
+  grid-column: 3 / 11;
+}

@@ -1,0 +1,34 @@
+{
+  "name": "meli-challenge-frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "next start",
+    "test": "jest",
+    "build": "next build",
+    "dev": "next"
+  },
+  "author": "Pascual Madrid",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/plugin-proposal-decorators": "^7.18.6",
+    "@babel/preset-env": "^7.18.6",
+    "@babel/preset-react": "^7.18.6",
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/material": "^5.8.4",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "axios": "^0.27.2",
+    "babel-jest": "^28.1.2",
+    "formik": "^2.2.9",
+    "jest": "^28.1.2",
+    "jest-environment-jsdom": "^28.1.2",
+    "next": "^12.1.6",
+    "node-sass": "^7.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sass": "^1.52.3"
+  }
+}

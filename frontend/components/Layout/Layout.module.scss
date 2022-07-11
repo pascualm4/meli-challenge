@@ -1,0 +1,15 @@
+@import '../../assets/styles/variables.scss';
+
+.layoutWrapper {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  width: 100%;
+  padding-top: 64px;
+  background-color: $light-grey;
+  min-height: 100vh;
+  padding-bottom: 32px;
+}
+
+.layoutContainer {
+  grid-column: 2 / 11;
+}

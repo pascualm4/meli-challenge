@@ -1,0 +1,10 @@
+@import '../../assets/styles/variables.scss';
+
+.textField {
+  background-color: $white-color;
+  border-radius: 3px;
+
+  fieldset {
+    border: none;
+  }
+}

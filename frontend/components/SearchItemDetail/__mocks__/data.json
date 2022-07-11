@@ -1,0 +1,21 @@
+{
+  "item": {
+    "author": {
+      "name": "Pacual",
+      "lastname": "Madrid"
+    },
+    "item": {
+      "id": "MLA1109665086",
+      "title": " Adaptador Lightning A Usb 3 Para Cámara P/ iPhone iPad iPod",
+      "price": {
+        "currency": "ARS",
+        "amount": 4318.92
+      },
+      "picture": "http://http2.mlstatic.com/D_726077-MLA48012552842_102021-O.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "sold_quantity": 5,
+      "description": "Lightning to USB 3 Camera Adapter\n\nAdaptador Lightning a USB 3 para cámara Original\n\n\nCon el adaptador de cámara Lightning to USB 3, es fácil transferir fotos y videos desde su cámara digital de alta resolución a su iPad Pro. Después de conectar el Adaptador de cámara Lightning a USB 3, su iPad Pro abre automáticamente la aplicación Fotos, que le permite elegir fotos y videos para importar, luego los organiza en álbumes.\n\nAgregue una mayor capacidad y versatilidad a su iPad Pro al alimentar el Lightning to USB 3 Camera Adapter con un adaptador de alimentación USB. Luego puede conectar periféricos USB como hubs, adaptadores Ethernet, interfaces de audio / MIDI y lectores de tarjetas para CompactFlash, SD, microSD y más.\n\nEl adaptador de cámara Lightning to USB 3 admite formatos de fotografía estándar, incluidos JPEG y RAW, junto con formatos de video SD y HD, incluidos H.264 y MPEG-4. El iPad Pro de 12,9 pulgadas y el iPad Pro de 10,5 pulgadas transfieren datos a velocidades USB 3, mientras que el iPad Pro de 9,7 pulgadas usa USB 2."
+    }
+  }
+}

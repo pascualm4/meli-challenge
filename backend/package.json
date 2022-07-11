@@ -1,0 +1,19 @@
+{
+  "name": "meli-challenge-backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest",
+    "debug": "DEBUG=app node app.js"
+  },
+  "author": "Pascual Madrid",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chalk": "4.1.2",
+    "debug": "^4.3.4",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0"
+  }
+}
